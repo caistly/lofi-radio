@@ -59,4 +59,4 @@ Copyright © 2021 [Caist#1637](https://github.com/caisticalhour).<br />
 This project is [MIT](https://github.com/caisticalhour/lofi-radio/blob/main/LICENSE) licensed.
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+
